@@ -1,0 +1,54 @@
+{
+    "googleSheetsApiKey": "AIzaSyCyw6iaAuVhBF8vfj5feZ1lq7zB81iW1AA",
+    "firebaseConfig": {
+        "apiKey": "AIzaSyArXbQuOKoCzpPCIsdDaAWR1L7TxR2GR9k",
+        "authDomain": "movihub-a8655.firebaseapp.com",
+        "databaseURL": "https://movihub-a8655-default-rtdb.firebaseio.com",
+        "projectId": "movihub-a8655",
+        "storageBucket": "movihub-a8655.firebasestorage.app",
+        "messagingSenderId": "25618051309",
+        "appId": "1:25618051309:web:2265c6071f5a180ec1dce4",
+        "measurementId": "G-6YZL0TZC4S"
+    },
+    "sheetId": "1js7UftITJ89sLOeH2RAyjncpSL4XHW7ecbd49UL8wmA",
+    "sheetName": "Sheet1",
+    "defaultAppTitleLogoUrl": "https://i.giphy.com/Nc2slkPLPdpmWeCUZc.webp",
+    "defaultLoginScreenLogoUrl": "https://i.giphy.com/Nc2slkPLPdpmWeCUZc.webp",
+    "emptyStateAnimationUrl": "https://assets10.lottiefiles.com/packages/lf20_GxMZME.json",
+    "categoryDetails": {
+        "all": {
+            "name": "All Categories",
+            "icon": "https://img.icons8.com/ios-glyphs/60/FFFFFF/circled-menu.png"
+        },
+        "movies": {
+            "name": "Movies",
+            "dataKey": "isMovie",
+            "icon": "https://img.icons8.com/ios-glyphs/60/FFFFFF/clapperboard.png"
+        },
+        "anime": {
+            "name": "Anime",
+            "dataKey": "isAnime",
+            "icon": "https://img.icons8.com/ios-glyphs/60/FFFFFF/uchiha-eyes.png"
+        },
+        "music": {
+            "name": "Music",
+            "dataKey": "isMusic",
+            "icon": "https://img.icons8.com/ios-glyphs/60/FFFFFF/musical-notes.png"
+        },
+        "animations": {
+            "name": "Animations",
+            "dataKey": "isAnimation",
+            "icon": "https://img.icons8.com/ios-glyphs/60/FFFFFF/animation.png"
+        }
+    },
+    "panelDetails": {
+        "adsPanel": {
+            "title": "Promotional Content",
+            "dataKey": "isAdPanelItem"
+        },
+        "trendingPanel": {
+            "title": "Trending Now",
+            "dataKey": "isTrending"
+        }
+    }
+}
